@@ -1,6 +1,6 @@
-#Introduction
+#Introduction: 
 Medical imaging more specifically X-ray examinations, is a key factor in the detection of bone disorders like fractures and degenerative changes. Manual interpretation and reporting by radiologists traditionally is laborintensive and human-error-prone, especially in low-resource settings. Artificial intelligence allows us to automatize these activities, improving efficiency, accuracy, and accessibility.This project propose a novel system that employs computer vision to scan images and NLP to generate humanreadable diagnostic sentences. By automating X-ray diagnoses, the system is capable of helping doctors make faster and more precise decisions, thereby improving patient outcomes. The proposed model includes Resnet50 for visual feature extraction, a neural classifier for binary classification and for generating report text-to-text transfer transformer is used. The gap between computer vision and NLP will be reduced by this combination in healthcare applications. 
-#User Interface and Key Features 
+#User Interface and Key Features:----------------------------------------------------------------------------------------------------------
 The user interface was developed as a cross-platform mobile application using React Native and the Expo framework, allowing for deployment on both Android and IOS from a single codebase.
 1. Cross-Platform UI: The use of React Native's component-based architecture facilitated rapid development and ensured a consistent user experience across different operating systems.
 2. Image Acquisition Module: The UI includes features for: Gallery Upload, permitting selection of existing medical images from the device's storage.
