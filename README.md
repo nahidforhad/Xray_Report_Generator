@@ -11,44 +11,13 @@ The user interface was developed as a cross-platform mobile application using Re
 4.3. Delete Records: A dedicated action is provided to allow the user to permanently delete individual history records, communicating this request to the backend via the DELETE API endpoint for complete data removal.
 <div align="center">
     <h2>📸 Application Screenshots</h2>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-        <img 
-            src="https://raw.githubusercontent.com/nahidforhad/Xray_Report_Generator/main/assets/WhatsApp%20Image%202025-12-09%20at%201.02.59%20AM.jpeg" 
-            alt="Screenshot 1 - Main Screen" 
-            width="180" 
-            style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
-        />
-        
-        <img 
-            src="https://raw.githubusercontent.com/nahidforhad/Xray_Report_Generator/main/assets/WhatsApp%20Image%202025-12-09%20at%201.02.59%20AM2.jpeg" 
-            alt="Screenshot 2 - Selection Dropdowns" 
-            width="180" 
-            style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
-        />
-        
-        <img 
-            src="https://raw.githubusercontent.com/nahidforhad/Xray_Report_Generator/main/assets/WhatsApp%20Image%202025-12-09%20at%201.02.59%20AM3.jpeg" 
-            alt="Screenshot 3 - Abnormal Report" 
-            width="180" 
-            style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
-        />
-        
-        <img 
-            src="https://raw.githubusercontent.com/nahidforhad/Xray_Report_Generator/main/assets/WhatsApp%20Image%202025-12-09%20at%201.02.59%20AM4.jpeg" 
-            alt="Screenshot 4 - History" 
-            width="180" 
-            style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
-        />
-        
-        <img 
-            src="https://raw.githubusercontent.com/nahidforhad/Xray_Report_Generator/main/assets/WhatsApp%20Image%202025-12-09%20at%201.02.59%20AM5.jpeg" 
-            alt="Screenshot 5 - Normal Report" 
-            width="180" 
-            style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
-        />
-    </div>
 </div>
+<img width="200" height="520" alt="image" src="https://github.com/user-attachments/assets/880c4a21-fdc6-49b6-99e5-1a9b0e0a1a52" />
+<img width="200" height="520" alt="image" src="https://github.com/user-attachments/assets/6164975b-cdc5-403a-844d-90beedce1948" />
+<img width="200" height="520" alt="image" src="https://github.com/user-attachments/assets/18132001-0747-4a60-b9b3-83bd7b291693" />
+<img width="200" height="520" alt="image" src="https://github.com/user-attachments/assets/1616318d-0b82-4962-9379-674bd2baaede" />
+<img width="200" height="520" alt="image" src="https://github.com/user-attachments/assets/43e47e55-b86b-4cfd-8e36-502f8977c46e" />
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
