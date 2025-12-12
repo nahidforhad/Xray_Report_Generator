@@ -3,13 +3,13 @@ Medical imaging more specifically X-ray examinations, is a key factor in the det
 <div>
 <h1>#User Interface and Key Features:</h1>
 The user interface was developed as a cross-platform mobile application using React Native and the Expo framework, allowing for deployment on both Android and IOS from a single codebase.
-1. Cross-Platform UI: The use of React Native's component-based architecture facilitated rapid development and ensured a consistent user experience across different operating systems.
-2. Image Acquisition Module: The UI includes features for: Gallery Upload, permitting selection of existing medical images from the device's storage.
-3. Interactive Reporting and Visualization: The generated report text and the Grad-CAM heatmap are rendered visually on the original X-ray image, allowing the user to immediately verify where the model focused its attention to make the diagnosis, thereby fostering trust and aiding clinical review.
-4. Diagnosis History Management: A dedicated section of the UI allows the user to:
-4.1. View History: Display a chronological list of all previous diagnostic submissions retrieved from the /api/history endpoint.
-4.2. Retrieve Details: Tap on a list item to view the full details of the past diagnosis, including the image, the full report, and the associated Grad-CAM visualization.
-4.3. Delete Records: A dedicated action is provided to allow the user to permanently delete individual history records, communicating this request to the backend via the DELETE API endpoint for complete data removal.
+<div>1. Cross-Platform UI: The use of React Native's component-based architecture facilitated rapid development and ensured a consistent user experience across different operating systems.</div>
+<div>2. Image Acquisition Module: The UI includes features for: Gallery Upload, permitting selection of existing medical images from the device's storage.</div>
+<div>3. Interactive Reporting and Visualization: The generated report text and the Grad-CAM heatmap are rendered visually on the original X-ray image, allowing the user to immediately verify where the model focused its attention to make the diagnosis, thereby fostering trust and aiding clinical review.</div>
+<div>4. Diagnosis History Management: A dedicated section of the UI allows the user to:</div>
+<div>4.1. View History: Display a chronological list of all previous diagnostic submissions retrieved from the /api/history endpoint.</div>
+<div>4.2. Retrieve Details: Tap on a list item to view the full details of the past diagnosis, including the image, the full report, and the associated Grad-CAM visualization.</div>
+<div>4.3. Delete Records: A dedicated action is provided to allow the user to permanently delete individual history records, communicating this request to the backend via the DELETE API endpoint for complete data removal.</div>
 </div>    
 <div align="center">
     <h2>📸 Application Screenshots</h2>
