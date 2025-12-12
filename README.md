@@ -49,7 +49,6 @@ The user interface was developed as a cross-platform mobile application using Re
         />
     </div>
 </div>
-
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
