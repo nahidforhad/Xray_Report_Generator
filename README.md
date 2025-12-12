@@ -9,39 +9,40 @@ The user interface was developed as a cross-platform mobile application using Re
 4.1. View History: Display a chronological list of all previous diagnostic submissions retrieved from the /api/history endpoint.
 4.2. Retrieve Details: Tap on a list item to view the full details of the past diagnosis, including the image, the full report, and the associated Grad-CAM visualization.
 4.3. Delete Records: A dedicated action is provided to allow the user to permanently delete individual history records, communicating this request to the backend via the DELETE API endpoint for complete data removal.
-  <div align="center">
+ <div align="center">
+    <h2>📸 Application Screenshots</h2>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
         <img 
-            src="https://github.com/user-attachments/assets/1a2c78ab-f94d-45b5-bd8b-c2de14e690e8" 
+            src="https://raw.githubusercontent.com/nahidforhad/Xray_Report_Generator/main/assets/WhatsApp%20Image%202025-12-09%20at%201.02.59%20AM.jpeg" 
             alt="Screenshot 1 - Main Screen" 
             width="180" 
             style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
         >
         
         <img 
-            src="https://github.com/user-attachments/assets/2b91641e-bfa7-4751-8742-234a4e67dfb4" 
+            src="https://raw.githubusercontent.com/nahidforhad/Xray_Report_Generator/main/assets/WhatsApp%20Image%202025-12-09%20at%201.02.59%20AM2.jpeg" 
             alt="Screenshot 2 - Selection Dropdowns" 
             width="180" 
             style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
         >
         
         <img 
-            src="https://github.com/user-attachments/assets/50551e05-5433-4bbd-be3d-d90681825f0d" 
+            src="https://raw.githubusercontent.com/nahidforhad/Xray_Report_Generator/main/assets/WhatsApp%20Image%202025-12-09%20at%201.02.59%20AM3.jpeg" 
             alt="Screenshot 3 - Abnormal Report" 
             width="180" 
             style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
         >
         
         <img 
-            src="https://github.com/user-attachments/assets/cf042839-6ce2-4eef-936f-de9389cd56a2" 
+            src="https://raw.githubusercontent.com/nahidforhad/Xray_Report_Generator/main/assets/WhatsApp%20Image%202025-12-09%20at%201.02.59%20AM4.jpeg" 
             alt="Screenshot 4 - History" 
             width="180" 
             style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
         >
         
         <img 
-            src="https://github.com/user-attachments/assets/b093f87c-34d2-4218-82da-0a2290cae616" 
+            src="https://raw.githubusercontent.com/nahidforhad/Xray_Report_Generator/main/assets/WhatsApp%20Image%202025-12-09%20at%201.02.59%20AM5.jpeg" 
             alt="Screenshot 5 - Normal Report" 
             width="180" 
             style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
